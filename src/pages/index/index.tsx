@@ -30,7 +30,6 @@ export default class Index extends Component {
   onActionClick = () => {
     console.log("开始搜索");
   };
-  handleChange = () => {};
   render() {
     return (
       <>
